@@ -15,41 +15,18 @@ Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ad
   Gatsby Personal Site
 </h1>
 
-<!-- Badges (with link) -->
-
-<p align="center">
-  <a href="https://github.com/reymon359/gatsby-personal-site/actions?query=workflow%3ABuild">
-    <img alt="Build" src="https://github.com/reymon359/gatsby-personal-site/workflows/Build/badge.svg" />
-  </a>
-  <a href="https://github.com/reymon359/gatsby-personal-site/commits/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/reymon359/gatsby-personal-site?logo=github" />
-  </a>
-  <a href="https://github.com/reymon359/gatsby-personal-site/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/reymon359/gatsby-personal-site?color=blue&logo=github" />
-  </a>
-  <a href="https://github.com/reymon359/gatsby-personal-site/releases">
-    <img alt="Version" src="https://img.shields.io/github/package-json/v/reymon359/gatsby-personal-site?logo=github" />
-  </a>
-</p>
-
 
 <!-- Small description -->
 <p align="center">
 A personal site made with the static site generator <a href="https://www.gatsbyjs.com/">Gatsby</a>
 </p>
 
-<!-- Screenshot or video (with link) -->
-<p align="center">
-  <a href="https://www.ramonmorcillo.com">
-    <img alt="site screenshot" src="./static/images/site_demo.gif" />
-  </a>
-</p>
 
 
 <!-- Long description -->
 This site is meant to be a place to add and share my works about the things I learn and what I'm interested in. It was built from the [Gatsby's default starter](https://github.com/gatsbyjs/gatsby-starter-default) 
 
-IMPORTANT: You know what they say about looking at your own code. I was learning Gatsby, React, and TypeScript by the time I made this, so I'm sure there are a lot of things that should be improved. Please be aware of that 😉. 
+
 
 <!-- Technologies -->
 ## Built With these Technologies
@@ -95,10 +72,6 @@ Have a look at [How Gatsby Works with GitHub Pagesw to configure it](https://www
 
 Run ESLint on the project to report wrong patterns on the code, and the second one also tries to fix them
 
-<!-- Authors -->
-## Authors
-
-- **Ramón Morcillo** - _Initial work_ - [reymon359](https://github.com/reymon359)
 
 <!-- Credits -->
 ## Credits

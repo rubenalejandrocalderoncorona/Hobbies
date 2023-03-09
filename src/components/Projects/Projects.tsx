@@ -10,8 +10,8 @@ interface ProjectsProps {
 const Projects: React.FC<ProjectsProps> = ({projects}) => (
   <>
     <Header>
-      <Title>Projects</Title>
-      <Description>What I do or have done</Description>
+      <Title>Hobbies and Projects</Title>
+      <Description>What are my hobbies and Projects</Description>
     </Header>
     <Section>
       <SectionBody>
