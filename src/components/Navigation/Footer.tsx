@@ -60,7 +60,7 @@ const Footer = () => (
     <Item position="left">
       <span>Rubén Corona - {new Date().getFullYear()} - </span>{' '}
       <a
-        href="https://github.com/reymon359/gatsby-personal-site/"
+        href="https://github.com/rubenalejandrocalderoncorona/Hobbies"
         target="_blank"
         rel="noopener noreferrer"
       >
