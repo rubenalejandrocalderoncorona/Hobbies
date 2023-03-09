@@ -65,7 +65,7 @@ const Intro: React.FC<IntroProps> = ({fixed}) => {
   return (
     <Wrapper fixed={fixed}>
       <Title>
-        Hey, I am Ramón 👋
+        Hey, I am Rubén 👋
       </Title>
     </Wrapper>
   )

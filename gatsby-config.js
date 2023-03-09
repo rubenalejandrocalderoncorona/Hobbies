@@ -7,26 +7,25 @@ require('dotenv').config({
 module.exports = {
   pathPrefix: '/Hobbies',
   siteMetadata: {
-    title: `ramonmorcillo.com`,
-    description: `Ramón Morcillo's website`,
-    siteUrl: `https://ramonmorcillo.com`,
-    image: `/images/ramon_morcillo_meta_image.jpg`,
+    title: `rubencorona.com`,
+    description: `Rubén Corona's website`,
+    siteUrl: `https://yoursite.com`,
+    image: `/images/ruben_corona_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       'Add the Google Site Verification',
     author: {
-      name: `Ramon Morcillo`,
-      intro: `Hey, I am Ramón 👋`,
+      name: `Ruben Corona`,
+      intro: `Hey, I am Rubén 👋`,
       url: `https://ramonmorcillo.com`,
-      email: `hey@ramonmorcillo.com`
+      email: `urbennoroac@gmail.com`
     },
     social: [
-      {name: `Twitter`, socialUrl: `https://twitter.com/reymon359`},
-      {name: `GitHub`, socialUrl: `https://github.com/reymon359`},
-      {name: `Mapmelon`, socialUrl: `https://www.mapmelon.com/reymon359/`},
+      {name: `Twitter`, socialUrl: `https://twitter.com/RubenCalderonC2`},
+      {name: `GitHub`, socialUrl: `https://github.com/rubenalejandrocalderoncorona`},
       {
         name: `LinkedIn`,
-        socialUrl: `https://www.linkedin.com/in/ramon-morcillo/`
+        socialUrl: `https://www.linkedin.com/in/ruben-alejandro-calderon-corona`
       },
     ]
   },

@@ -58,7 +58,7 @@ const Item = styled.div<ItemProps>`
 const Footer = () => (
   <FooterWrapper>
     <Item position="left">
-      <span>Ramón Morcillo - {new Date().getFullYear()} - </span>{' '}
+      <span>Rubén Corona - {new Date().getFullYear()} - </span>{' '}
       <a
         href="https://github.com/reymon359/gatsby-personal-site/"
         target="_blank"
@@ -68,13 +68,13 @@ const Footer = () => (
       </a>
     </Item>
     <Item position="right">
-      Made with love & time&nbsp;
+      I love space and sky&nbsp;
       <small
         style={{
           fontSize: '70%'
         }}
       >
-        (a lot of it)
+
       </small>
     </Item>
   </FooterWrapper>

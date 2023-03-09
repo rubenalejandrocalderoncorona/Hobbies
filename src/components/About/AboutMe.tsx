@@ -18,59 +18,41 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        Maker. Problem solver. 🍉 Fruit Fanatic. 🏄‍♂️ Nomad Surfer.
-      </p>
-
-      <p>
+        Maker. Problem solver. 🍉 Fruit Fanatic. 🏄‍♂️ Beach Lover.
         Constantly creating to improve myself and those around me.
       </p>
+
+
       <p>
         I use this website as a place to share what I
         learn and do.
       </p>
-      {/* <p>
-        <a
-          href="../../../files/ramon-morcillo-resume.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Here is my resume
-        </a>
-        &nbsp;in case you want to have a look.
-      </p> */}
       <p> Sometimes I&nbsp;
         <a
-          href="https://twitter.com/reymon359"
+          href="https://www.youtube.com/@MADialectic/channels"
           target="_blank"
           rel="noopener noreferrer"
         >
-          tweet
+          produce
         </a>
-        &nbsp;and share&nbsp;
+        &nbsp;and make&nbsp;
         <a
-          href="https://www.instagram.com/ramon.mor/"
+          href="https://soundcloud.com/ma_dialectics"
           target="_blank"
           rel="noopener noreferrer"
         >
-          moments
+         music
         </a>
-        &nbsp;or&nbsp;
-        <a
-          href="https://www.instagram.com/ramon.mor.photos/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          pictures
-        </a>
-        &nbsp;on Instagram.
+        &nbsp;and&nbsp;
+        &nbsp;have some additional hobbies
       </p>
       <p>
         You can contact me through them or sending an email to&nbsp;
         <a
           rel="noopener"
-          href="mailto:hey@ramonmorcillo.com?subject=Hi%20there!"
+          href="mailto:urbennoroac@gmail.com?subject=Hi%20there!"
         >
-          hey@ramonmorcillo.com
+          urbennoroac@gmail
         </a>
       </p>
     </Content>
