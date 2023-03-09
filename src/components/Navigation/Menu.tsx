@@ -130,8 +130,8 @@ interface StaticQueryData {
 }
 
 export const Menu: React.FC = () => {
-  const pages : String[] = [`works`]
-  const pages2 : String[] = [`about`]
+  const pages : string[] = [`works`]
+  const pages2 : string[] = [`about`]
   const {site}: StaticQueryData = useStaticQuery(
     graphql`
       query {
