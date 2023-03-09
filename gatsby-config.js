@@ -5,7 +5,7 @@ require('dotenv').config({
 })
 
 module.exports = {
-  pathPrefix: '/gatsby-personal-site',
+  pathPrefix: '/Hobbies',
   siteMetadata: {
     title: `ramonmorcillo.com`,
     description: `Ramón Morcillo's website`,
